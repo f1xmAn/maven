@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ua.edu.nuos.tees</groupId>
+  <artifactId>jdmmon_base_api</artifactId>
+  <versioning>
+    <release>1.0-SNAPSHOT</release>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130519083912</lastUpdated>
+  </versioning>
+</metadata>
